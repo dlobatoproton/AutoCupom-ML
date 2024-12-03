@@ -15,7 +15,7 @@
 (function() {
     'use strict';
 
-    const INACTIVE_COUPONS_URL = "https://www.mercadolivre.com.br/cupons?source_page=mperfil#nav-header";
+    const INACTIVE_COUPONS_URL = "https://www.mercadolivre.com.br/cupons/filter?all=true&source_page=int_view_all";
 
     // Estilos CSS
     const style = document.createElement('style');
