@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         AutoCupom ML
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      1.0
 // @description  Clica em todos cupons do ML.
-// @author       unknow
+// @author       dlobato
 // @match        https://www.mercadolivre.com.br/*
 // @match        https://myaccount.mercadolivre.com.br/my_purchases/*
 // @grant        none
