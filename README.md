@@ -5,9 +5,11 @@ Passo 1: Instale a extensão Tampermonkey: [https://chrome.google.com/webstore/d
 
 Passo 2: Instale o Script AutoCupom ML: https://github.com/dlobatoproton/AutoCupom-ML/blob/main/AutoCupom%20ML.user.js
 
-Passo 3: Ser feliz Clique para abrir a imagem em nova guia
+Passo 3: No menu do ML, seleciona a opção Cupons, deça até o fim e clique em exibir todos ou acesse https://www.mercadolivre.com.br/cupons/filter?all=true&source_page=int_view_all.
 
-Demo; https://www.youtube.com/watch?v=S7Sr0E5aRKk
+Passo 4: Clique no botão Ativar Cupons e seja feliz.
+
+Demo: https://www.youtube.com/watch?v=S7Sr0E5aRKk
 
 
 AUTOR ORIGINAL: euronymous22
