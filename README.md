@@ -1,4 +1,14 @@
-VERSÃO CORRIGIDA DO autocupom-ml
+Versão corrigida do autocupom-ml, realizada para apoiar por reclamações os usuários do hardmob.
+
+Passos de instalação
+Passo 1: Instale a extensão Tampermonkey: [https://chrome.google.com/webstore/d...bfkfo?hl=pt-BR](https://chrome.google.com/webstore/d...bfkfo?hl=pt-BR)
+
+Passo 2: Instale o Script AutoCupom ML: https://github.com/dlobatoproton/AutoCupom-ML/blob/main/AutoCupom%20ML.user.js
+
+Passo 3: Ser feliz Clique para abrir a imagem em nova guia
+
+Demo; https://www.youtube.com/watch?v=S7Sr0E5aRKk
+
 
 AUTOR ORIGINAL: euronymous22
 FONTE: https://greasyfork.org/pt-BR/scripts/475165-autocupom-ml
